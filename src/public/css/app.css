@@ -18,6 +18,17 @@
   flex-wrap: wrap;
 }
 
+.login .fa-right-to-bracket{
+  margin-right: 5px;
+  font-size: 13px;
+}
+
+.login span{
+  font-size: 15px;
+  font-weight: 600;
+}
+
+
 .page.active-page {
   background-color: #c69714 !important;
 }
